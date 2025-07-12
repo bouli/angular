@@ -24,6 +24,8 @@ This step adds property binding to the `<app-housing-location>` tag.
 
 In the code editor:
 
+NOTE: You probably already have it from the last step.
+
 1. Navigate to `src/app/home/home.ts`
 1. In the template property of the `@Component` decorator, update the code to match the code below:
     <docs-code header="Add housingLocation property binding" path="adev/src/content/tutorials/first-app/steps/07-dynamic-template-values/src/app/home/home.ts" visibleLines="[15,17]"/>
